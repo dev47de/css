@@ -1,0 +1,14 @@
+body{
+    display: block;
+    margin: 8px;
+    background-color: black;
+    color: #DDDDDD;
+}
+
+a{
+    color: #FFF;
+}
+
+a:hover{
+    font-weigth: bold;
+}
